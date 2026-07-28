@@ -115,10 +115,17 @@
 
 ### WorkTopus Branch Workflow
 
-```mermaid
-flowchart LR
-    A["feature/chat<br/>기능 개발"]
-    --> B["Commit"]
-    --> C["Push"]
-    --> D["develop Merge"]
-    --> E["팀 코드 통합"]
+<div align="center">
+
+`feature/chat 기능 개발` → `Commit` → `Push` → `develop Merge` → `팀 코드 통합`
+
+</div>
+
+### 협업 경험
+
+- `feature/chat` 브랜치에서 담당 기능 개발
+- 기능 단위 Commit 및 변경 이력 관리
+- Push / Pull / Fetch를 통한 원격 Repository 연동
+- `feature/chat → develop` Merge
+- Merge Conflict 발생 시 충돌 파일 확인 및 수정
+- GitHub 기반 팀 Repository 코드 공유 및 협업
