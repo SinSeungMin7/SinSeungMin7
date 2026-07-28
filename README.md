@@ -116,14 +116,9 @@
 ### WorkTopus Branch Workflow
 
 ```mermaid
-flowchart TB
-    A["feature/chat<br/>채팅 · AI 기능 개발"]
-    B["Commit"]
-    C["Push"]
-    D["develop Merge"]
-    E["팀 코드 통합"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
+flowchart LR
+    A["feature/chat<br/>기능 개발"]
+    --> B["Commit"]
+    --> C["Push"]
+    --> D["develop Merge"]
+    --> E["팀 코드 통합"]
