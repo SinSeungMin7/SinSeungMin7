@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Sin Seung Min
+# Sin Seung Min
 
 ### Backend Developer
 
