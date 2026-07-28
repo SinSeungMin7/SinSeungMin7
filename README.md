@@ -1,5 +1,5 @@
 
-# 신승민 | Shin Seung Min
+# 신승민 | Sin Seung Min
 
 ### Backend Developer
 
