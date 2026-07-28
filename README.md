@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Shin Seung Min
+#  Sin Seung Min
 
 ### Backend Developer
 
@@ -13,14 +13,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 동서대학교 소프트웨어융합대학 정보통신공학전공
-* 💻 Java / Spring Boot 기반 백엔드 개발 학습
-* 🗄️ Oracle 기반 DB 설계 및 데이터 처리 경험
-* 🤝 Git / GitHub를 활용한 팀 프로젝트 협업 경험
-* 💬 WebSocket(STOMP) 기반 실시간 통신 구현 경험
-* 🤖 Gemini를 활용한 AI 회의 요약 기능 구현 경험
+* 동서대학교 소프트웨어융합대학 정보통신공학전공
+* Java / Spring Boot 기반 백엔드 개발 학습
+* Oracle 기반 DB 설계 및 데이터 처리 경험
+* Git / GitHub를 활용한 팀 프로젝트 협업 경험
+* WebSocket(STOMP) 기반 실시간 통신 구현 경험
+* Gemini를 활용한 AI 회의 요약 기능 구현 경험
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-# 🚀 Main Projects
+# Main Projects
 
 ## 🐙 WorkTopus
 
@@ -125,7 +125,7 @@
 
 ---
 
-# 🌿 Git & GitHub Experience
+# Git & GitHub Experience
 
 팀 프로젝트에서 기능별 개발 브랜치를 사용하고
 GitHub의 공유 Repository를 통해 팀원들과 코드를 통합했습니다.
@@ -179,7 +179,7 @@ develop
 
 ---
 
-# 💡 Development Experience
+# Development Experience
 
 ### Backend
 
@@ -203,7 +203,7 @@ WebSocket(STOMP)을 이용한 양방향 실시간 통신 기능을 구현했습�
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```text
 Java
