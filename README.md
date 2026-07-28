@@ -8,16 +8,6 @@
 데이터베이스 설계부터 백엔드 로직, REST API,  
 실시간 통신과 AI 연동까지 직접 구현하며 개발 경험을 쌓고 있습니다.
 
-<br>
-
-<a href="mailto:min85112000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/SinSeungMin7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-
 ---
 
 ##  About Me
@@ -30,8 +20,8 @@
 - Git / GitHub 기반 팀 프로젝트 협업 경험
 
 ---
-<div align = "center">
 ## 🛠 Tech Stack
+<div align = "center">
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
