@@ -115,11 +115,7 @@
 
 ### WorkTopus Branch Workflow
 
-<div align="center">
-
 `feature/chat 기능 개발` → `Commit` → `Push` → `develop Merge` → `팀 코드 통합`
-
-</div>
 
 ### 협업 경험
 
