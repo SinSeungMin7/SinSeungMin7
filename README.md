@@ -8,61 +8,55 @@
 데이터베이스 설계부터 백엔드 로직, REST API,  
 실시간 통신과 AI 연동까지 직접 구현하며 개발 경험을 쌓고 있습니다.
 
+<br>
+
+<a href="mailto:min85112000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SinSeungMin7">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 
 ---
 
 ##  About Me
 
--  Java / Spring Boot 기반 백엔드 개발
--  Oracle 기반 DB 설계 및 데이터 처리 경험
--  REST API 기반 서버·클라이언트 데이터 통신 구현
--  WebSocket(STOMP) 기반 실시간 채팅 구현
--  Gemini API를 활용한 AI 회의 요약 기능 구현
--  Git / GitHub 기반 팀 프로젝트 협업 경험
+- Java / Spring Boot 기반 백엔드 개발
+- Oracle 기반 DB 설계 및 데이터 처리 경험
+- REST API 기반 서버·클라이언트 데이터 통신 구현
+- WebSocket(STOMP) 기반 실시간 채팅 구현
+- Gemini API를 활용한 AI 회의 요약 기능 구현
+- Git / GitHub 기반 팀 프로젝트 협업 경험
 
 ---
-
+<div align = "center">
 ## 🛠 Tech Stack
-
-### Language
-
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-### Backend
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-### Database
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-
-### Tools & Collaboration
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
+</div>
 ---
 
-# Main Projects
+# 🚀 Main Projects
 
 ## 🐙 WorkTopus
 
@@ -84,7 +78,7 @@
 `Java` `Spring Boot` `JPA` `Oracle` `JavaScript`  
 `Thymeleaf` `WebSocket` `STOMP` `SockJS` `Gemini` `Git/GitHub`
 
-### Repository
+### 🔗 Repository
 
 👉 [WorkTopus GitHub Repository](https://github.com/worktopus/WorkTopus)
 
@@ -110,7 +104,7 @@
 `Java` `Spring Boot` `MyBatis` `Oracle`  
 `JSP` `JavaScript` `AJAX` `Git/GitHub`
 
-### Repository
+### 🔗 Repository
 
 👉 [AI Palette GitHub Repository](https://github.com/ai-palette-project/Ai_Pmt)
 
